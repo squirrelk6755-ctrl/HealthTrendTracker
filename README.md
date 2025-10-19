@@ -23,4 +23,4 @@ HealthTrendTracker is a Java-based application that allows users to manage and o
 ## How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/kirtirani1102/HealthTrendTracker.git
+git clone https://github.com/squirrelk6755-ctrl/HealthTrendTracker.git
