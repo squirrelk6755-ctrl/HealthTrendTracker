@@ -17,6 +17,8 @@ HealthTrendTracker is a Java-based application that allows users to manage and o
 - Java
 - JDBC
 - SQLite (file-based database)
+- Developed using IntelliJ IDEA
+- Optional: XAMPP for running additional server scripts
 
 ## How to Run
 1. Clone the repository:
